@@ -6,7 +6,7 @@ hero:
   text: I am a full-stack engineer
   tagline: A fan of dota2, on the ride to web3
   image:
-    src: ../assets/logo.png
+    src: /logo.png
     alt: nft
   actions:
     - theme: brand
